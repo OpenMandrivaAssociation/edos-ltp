@@ -1,6 +1,6 @@
 %define name edos-ltp
 %define version 1.0.0
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary:	EDOS XML specification files for LTP tests
 Name:		%{name}
@@ -8,7 +8,7 @@ Version:	%{version}
 Release:	%{release}
 URL:		http://www.edos-project.org
 License:	GPL
-Group:		Development/Others
+Group:		Development/Other
 Source0:	http://www.edos-project.org/releases/%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch:      noarch
