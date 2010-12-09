@@ -1,6 +1,6 @@
 %define name edos-ltp
 %define version 1.0.0
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary:	EDOS XML specification files for LTP tests
 Name:		%{name}
