@@ -6,7 +6,7 @@ Summary:	EDOS XML specification files for LTP tests
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
-URL:		http://www.edos-project.org
+URL:		https://www.edos-project.org
 License:	GPL
 Group:		Development/Other
 Source0:	http://www.edos-project.org/releases/%{name}-%{version}.tar.gz
